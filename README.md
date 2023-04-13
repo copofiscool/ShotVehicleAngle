@@ -12,10 +12,10 @@ This script restricts the shooting angle of players inside vehicles to 180 degre
 
 ### Installation :wrench:
 
-1. Download the `car_shooting_restrict` folder [here](your_download_link)
+1. Download the `ShotVehicleAngle` folder [here](https://github.com/copofiscool/ShotVehicleAngle)
 2. Extract the folder and place it in your server's `resources` directory
-3. Add `ensure car_shooting_restrict` to your server's `server.cfg` file
-4. Restart your server or start the new resource using `start car_shooting_restrict` in the server console
+3. Add `ensure ShotVehicleAngle` to your server's `server.cfg` file
+4. Restart your server or start the new resource using `start ShotVehicleAngle` in the server console
 
 ### Configuration :gear:
 
